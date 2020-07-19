@@ -6,11 +6,6 @@
 * 英文：学习中...📕
 * 目前工作地点：深圳
 
-
-*************
-
-<br />
-
 ## ⚒️ Skill (让自己活着的技能)
 
 ### Language
@@ -22,14 +17,8 @@
 
 ### Device
 <img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px;">
-</p>
-
-<br />
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Kealina-A&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-*************
-
 
 ## 💡Habit (爱倒腾的东西)
 
@@ -38,8 +27,6 @@
 * 烘焙（面团好玩）
 * 倒腾吃的（玩玩而已）
 * 拍照（拍拍自己做的吃的,外面的美景）
-
-*************
 
 ## 🌟 Contact
 
