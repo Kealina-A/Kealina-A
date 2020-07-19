@@ -1,12 +1,6 @@
-### 👋👋👋👋
+### 哈喽🙋‍♂️！我是[科琳娜(Kealina)](https://github.com/Kealina-A),属老鼠🐁。目前是一只正二八经的Java后端程序媛🙈，至今毕业🎓2年有余，👨‍💻搬砖时长有3年之多。人生格言－人生苦短，好好折腾！
 
-<br />
-
-## ✨ Something about me（空白介绍）
-### 哈喽🙋‍♂️！我是[科琳娜(Kealina)](https://github.com/Kealina-A),属老鼠的🐁。目前是一只正二八经的Java后端程序媛🙈，至今毕业🎓2年有余，👨‍💻搬砖时长有3年之多。人生格言－人生苦短，好好折腾！
-
-<br>
-
+#### 超简单介绍下
 * 姓别：👧
 * 学历：本科
 * 英文：学习中...📕
@@ -20,11 +14,11 @@
 ## ⚒️ Skill (让自己活着的技能)
 
 ### Language
-<img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px;"><img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px;"><img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px;">
+<img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px;"> <img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px;"> <img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px;">
 
 ### DevTools
-<img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px;"><img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/tools/jetbrains_datagrip.svg" alt="jetbrains_datagrip" style="vertical-align:top; margin:6px 4px;"><img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/tools/jetbrains_webstorm.svg" alt="jetbrains_webstorm" style="vertical-align:top; margin:6px 4px;"><img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px;">
-<img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px;"><img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px;"><img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px;">
+<img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px;"> <img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/tools/jetbrains_datagrip.svg" alt="jetbrains_datagrip" style="vertical-align:top; margin:6px 4px;"> <img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/tools/jetbrains_webstorm.svg" alt="jetbrains_webstorm" style="vertical-align:top; margin:6px 4px;"> <img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px;">
+<img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px;"> <img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px;"> <img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px;">
 
 ### Device
 <img src="https://github.com/Kealina-A/Kealina/blob/master/svgs/coloredBadges/svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px;">
